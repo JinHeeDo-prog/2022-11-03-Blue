@@ -157,6 +157,8 @@ div.contents > div.user-email {
   line-height: 18px;
 
   color: #000000;
+
+  cursor: pointer;
 }
 
 div.contents > div.card-area {
